@@ -585,7 +585,7 @@ Queen		 0.0	 0.1	 0.2	 0.3
 					maxHealth = 250
 					plasma_gain = 50
 					plasma_max = 900
-					spit_delay = 5
+					spit_delay = 10
 					caste_desc = "A ranged destruction machine."
 					armor_deflection = 30
 					tacklemin = 5
